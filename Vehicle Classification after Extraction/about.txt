@@ -1,0 +1,1 @@
+This script is to classify messy images after we extract them from videos
